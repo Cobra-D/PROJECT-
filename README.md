@@ -1,2 +1,0 @@
-# PROJECT-
-Пробный проект tkinter
